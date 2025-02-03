@@ -1,0 +1,13 @@
+AUTH=admin,xxxxxxxx,ABDULLA,yyyyyyy,Тестов Рустам Тотразович,0003221,testovrt,testov@mail.ru,генерал поезда, ,25.12.2026,max.test26@gmail.com,Aвтотест проверки работы сайта при помощи Selenium
+DB_HOST=127.0.0.1
+DB_NAME=user
+DB_USER=user
+DB_PASSWORD=password
+DB_PORT=5432
+TESTDATA=frmdate=22.02.2022,todate=22.02.2024,last_name=Тестова,name=Мария,middle_name=Сбитеховна,birth_date=20.04.2001,mail=testmail@mail.ru,search_text=Тестова,search_filter_text=петр
+#---Значения для RESULTBASE 1 - БД Postgres; 0 - БД SQLite
+RESULTBASE=0
+APP_URL='http://195.133.146.33:8080/'
+TEST_LIST=11,21,22,23
+SEND=0
+STAT=1
